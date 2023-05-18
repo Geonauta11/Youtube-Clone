@@ -31,3 +31,6 @@
   font-family: Roboto, Arial;
   font-size: 10px;
 }
+.sidebar-link-nowrap{
+  white-space: nowrap;
+}
